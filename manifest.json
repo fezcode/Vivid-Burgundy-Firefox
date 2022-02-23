@@ -1,0 +1,38 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Vivid Burgundy",
+  "icons": {
+    "32": "images/icon.svg"
+  },
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-027-1049af643fc55b4ffd4a8575444547c5.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(89, 13, 34)",
+      "toolbar_text": "rgb(255, 204, 213)",
+      "frame": "rgb(128, 15, 47)",
+      "tab_background_text": "rgb(255, 204, 213)",
+      "toolbar_field": "rgb(128, 15, 47)",
+      "toolbar_field_text": "rgb(255, 204, 213)",
+      "tab_line": "rgb(201, 24, 74)",
+      "popup": "rgb(255, 204, 213)",
+      "popup_text": "rgb(49, 42, 43)",
+      "icons": "rgb(244, 121, 144)",
+      "ntp_background": "rgb(201, 24, 74)",
+      "ntp_text": "rgb(0, 0, 0)",
+      "tab_loading": "rgb(201, 24, 74)"
+    }
+  }
+}
